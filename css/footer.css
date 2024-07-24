@@ -1,0 +1,14 @@
+.footer{
+	position: sticky;
+	bottom:0;
+	z-index: -1;
+	
+	height: 460px;
+	
+	background-image: url(../img/footer-bg.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+	border: none;
+}
